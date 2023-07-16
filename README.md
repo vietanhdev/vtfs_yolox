@@ -1,13 +1,13 @@
 # YOLOX for VIA Traffic Sign dataset
 
-This instructions guides you to train and inference YOLOX model on [VIA Traffic Sign dataset](https://github.com/makerhanoi/via-datasets).
+These instructions guide you to train and infer the YOLOX model on [VIA Traffic Sign dataset](https://github.com/makerhanoi/via-datasets).
 
 ## 1. Prepare environment
 
-- Clone and install YOLOX using instruction from the official repository:
+- Clone and install YOLOX using instructions from the official repository:
 
 ```
-https://github.com/Megvii-BaseDetection/YOLOX#quick-start
+git clone https://github.com/Megvii-BaseDetection/YOLOX
 ```
 
 - Clone source code for training with VIA Traffic Sign dataset:
